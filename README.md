@@ -20,7 +20,7 @@ Data Dictionary
 [Link to data](https://www.tensorflow.org/datasets/catalog/mnist)
 
 ### Relevant Notes about the Use of Data
-
+This dataset is contained in the Keras package. This makes obtaining and using the data convenient. However, the dataset is large. Training the model took over an hour depending on computing power. This challenge may be overcome by using more powerful computers.
 
 ## Figures 
 Table of Contents
