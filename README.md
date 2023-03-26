@@ -14,6 +14,7 @@ Data Dictionary
 |Column Name|Definition                                                                                    |Data Type      | 
 |-----------|----------------------------------------------------------------------------------------------|---------------|
 |Offset |Per-row bias value                                                         |String         |
+|Type |Integer or byte                                                        |String         |
 |Value       |Numbered value                                                               |Integer        |
 |Description      |Description of rows |String         |
 
