@@ -18,7 +18,7 @@ Data Dictionary
 |Value       |Numbered value                                                               |Integer        |
 |Description      |Description of rows |String         |
 
-[Link to data](Data/state_ofthe_union_texts.csv)
+[Link to data](https://www.tensorflow.org/datasets/catalog/mnist)
 
 ### Relevant Notes about the Use of Data
 
