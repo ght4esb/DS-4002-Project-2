@@ -1,12 +1,11 @@
 # DS-4002-Project-2
-  
 
 ## SRC 
 ### Installing/Building Code
- 
+We accessed the MNIST data set through the Keras package and read it using Google Colab. The data set contains 60,000 training images and 10,000 testing images of handwriting for online handwriting recognition. We reshaped the data into a 28 x 28 pixel box to isolate letters. We then created the model.
 
 ### Usage of Code
-
+We trained the model using 30 epochs. We evaluated the model by creating a graph comparing the validation and accuracy of the model. We refined the number of epochs by observing the test loss and test accuracy. We also compared the test loss and test accuracy values to our hypothesis.
  
 ## Data 
 
