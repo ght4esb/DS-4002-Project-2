@@ -28,7 +28,8 @@ Table of Contents
 |Figure     |Key Takeaways| 
 |-------------------------------------------------|--------------------------------------------------------------------------------------------------|
 |Figure 1 Model Accuracy                   | Optimal number of epochs is 30. |
-|Figure 2 Results | Result XYZ|
+|Figure 1 Model Loss                  | Optimal number of epochs is 30. |
+|Figure 2 Sample Digits | The model made an acceptable number of errors in a random sample of images.|
 
 
 
